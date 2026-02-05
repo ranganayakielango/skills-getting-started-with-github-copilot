@@ -1,2 +1,10 @@
 fastapi
 uvicorn
+
+# Testing
+pytest
+httpx
+pytest-cov
+requests
+starlette
+fastapi[test]
